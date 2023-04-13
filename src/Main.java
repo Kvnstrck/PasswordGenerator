@@ -33,6 +33,7 @@ public class Main {
                     //big letter
                     randomChar += (char) (r.nextInt(26) + 'A');
                 }
+                System.out.println("test");
             } else {
                 if (typeOfCharSelector < 0.25) {
                     //number
